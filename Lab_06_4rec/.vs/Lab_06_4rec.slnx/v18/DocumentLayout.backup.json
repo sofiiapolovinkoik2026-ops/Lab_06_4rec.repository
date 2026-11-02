@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\st\\AP\\06\\Lab_06_4\\Lab_06_4rec\\Lab_06_4rec\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2E492DD5-134C-9483-A1EE-C9DABA804943}|..\\UnitTest1\\UnitTest1.vcxproj|C:\\st\\AP\\06\\Lab_06_4\\Lab_06_4rec\\UnitTest1\\UnitTest1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C31018E8-D798-4E00-86D3-9CC9C166F4F8}|Lab_06_4rec.vcxproj|C:\\st\\AP\\06\\Lab_06_4\\Lab_06_4rec\\Lab_06_4rec\\Lab_06_4rec.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C31018E8-D798-4E00-86D3-9CC9C166F4F8}|Lab_06_4rec.vcxproj|solutionrelative:Lab_06_4rec.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cpp",
+              "DocumentMoniker": "C:\\st\\AP\\06\\Lab_06_4\\Lab_06_4rec\\UnitTest1\\UnitTest1.cpp",
+              "RelativeDocumentMoniker": "..\\UnitTest1\\UnitTest1.cpp",
+              "ToolTip": "C:\\st\\AP\\06\\Lab_06_4\\Lab_06_4rec\\UnitTest1\\UnitTest1.cpp",
+              "RelativeToolTip": "..\\UnitTest1\\UnitTest1.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-11-02T10:21:38.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Lab_06_4rec.cpp",
+              "DocumentMoniker": "C:\\st\\AP\\06\\Lab_06_4\\Lab_06_4rec\\Lab_06_4rec\\Lab_06_4rec.cpp",
+              "RelativeDocumentMoniker": "Lab_06_4rec.cpp",
+              "ToolTip": "C:\\st\\AP\\06\\Lab_06_4\\Lab_06_4rec\\Lab_06_4rec\\Lab_06_4rec.cpp",
+              "RelativeToolTip": "Lab_06_4rec.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-11-02T10:14:43.284Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
